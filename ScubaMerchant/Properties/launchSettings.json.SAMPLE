@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ScubaMerchant": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ChannelID": "CHANNEL ID",
+        "BotToken": "BOT TOKEN"
+      }
+    }
+  }
+}
